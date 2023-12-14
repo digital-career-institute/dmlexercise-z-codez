@@ -20,7 +20,7 @@ insert into Students(name, age, grade, address) values
 ('Bob Johnson', 21, 78.5, '789 Pine Rd'),
 ('Tina Turner', 25, 71.0, '45 Columbia St');
 
-update table Students set grade=95.0 where name='Jane Smith';
+update Students set grade=95.0 where name='Jane Smith';
 
 delete from Students where id=103;
 
