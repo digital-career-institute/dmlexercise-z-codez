@@ -5,7 +5,7 @@ Create a new database for this exercise.
 ```
 CREATE DATABASE exercise_student_list
 use exercise_student_list
-``
+```
 
 ## Create the student table
 Create a table named **students** with the following columns:  
